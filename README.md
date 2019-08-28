@@ -2,6 +2,8 @@
 This is repository contains Currency and Exchange api automation smoketests
 
 ### Endpoints description:
+API Doc: 
+http://qa-test.cloudbeds.com/app_dev.php/api/v1/doc
 
     Currency :
     /api/v1/currencies/
