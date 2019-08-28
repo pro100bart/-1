@@ -29,7 +29,7 @@ OS: Linux, Mac
 ### Tools:
 - 	 node.js
 
-Necessary npm packages (described on package.json):
+Necessary npm packages (described in package.json):
 - 	cucumber
 - 	https
 -   request
